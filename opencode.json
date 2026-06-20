@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "opencode-zen": {}
+  },
+  "permission": {
+    "edit": {
+      "/home/omer/aieng-reference/**": "deny"
+    }
+  }
+}
