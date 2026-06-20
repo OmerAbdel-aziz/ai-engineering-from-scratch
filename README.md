@@ -1,25 +1,29 @@
 # AI Engineering from Scratch
 
-This repository contains resources and examples for learning the fundamentals of AI engineering.
+My personal implementation of the [AI Engineering from Scratch](https://aiengineeringfromscratch.com) curriculum.
 
-## Overview
+I write every lesson by hand — no copy-paste — so I actually learn the material instead of just cloning a finished solution. My implementation often diverges from the curriculum's recommended stack or approach, which is intentional.
 
-The goal of this project is to provide a hands-on introduction to building AI systems from the ground up. It includes concepts, code snippets, and practical guidance for model development, evaluation, and deployment.
+## Structure
 
-## Contents
+Lessons are organized by phase, mirroring the curriculum numbering:
 
-- **Introduction**: Background and key concepts in AI engineering.
-- **Data**: Data collection, preprocessing, and management.
-- **Modeling**: Building and training AI models.
-- **Evaluation**: Measuring performance and validating results.
-- **Deployment**: Best practices for putting AI systems into production.
+```
+phase-XX/YY-lesson-name/
+```
 
-## Getting Started
+A read-only reference clone lives at `~/aieng-reference/` for lesson instructions and solution sketches. It is never modified.
 
-1. Clone the repository.
-2. Review the examples and documentation.
-3. Run the sample code to understand workflow patterns.
+## Tools
 
-## License
+- **Coding assistant:** OpenCode
+- **LLM provider:** OpenCode Go
+- **Version control:** Git on `main` (default branch) — every commit counts
 
-This project is provided for learning purposes. See the repository license for details.
+## Progress
+
+- [x] **Phase 00 — Setup & Tooling** (lessons 1–4 completed)
+- [ ] Phase 01 — Math Foundations
+- [ ] Phase 02 — ML Fundamentals
+- ... (20 phases total)
+
