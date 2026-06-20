@@ -22,7 +22,7 @@ A read-only reference clone lives at `~/aieng-reference/` for lesson instruction
 
 ## Progress
 
-- [x] **Phase 00 — Setup & Tooling** (lessons 1–4 completed)
+- [x] **Phase 00 — Setup & Tooling** (lessons 1–5 completed)
 - [ ] Phase 01 — Math Foundations
 - [ ] Phase 02 — ML Fundamentals
 - ... (20 phases total)
